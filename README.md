@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto de finâncias, em que o usuário pode organizar e controlar sua vida financeira, adicionando as entradas, saídas da conta. Possibilita também configurar as datas, a categoria e o valor de suas entradas e saídas. 
+Projeto Meteorológico, consumindo a API da Open Weather Map, em que o usuário pesquisa o nome de uma cidade ou país e é gerado informações meteorológicas atuais, como temperatura, estado do clima (nublado, céu claro, etc), umidade do ar e velocidade do vento.  
 
 - [Acesse o projeto finalizado, online](https://weather-app-rust-one-23.vercel.app)
 
