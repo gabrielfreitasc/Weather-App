@@ -1,4 +1,4 @@
-<h1 align="center">💸Dev Finance💸</h1>
+<h1 align="center">🌦️Weather App🌦️</h1>
 
 <p>
     <img alt="Projeto Dev Finance" src="https://github.com/gabrielfreitasc/Weather-App/assets/69334324/006cbec2-1547-46b7-b83e-f73f8929bdcd" width="100%">
